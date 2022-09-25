@@ -112,10 +112,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Output
-![Screenshot (427)](https://user-images.githubusercontent.com/75243072/191233488-778e775d-bd18-45e4-9a77-36de57559f99.png)
-
-![Screenshot (426)](https://user-images.githubusercontent.com/75243072/191233530-6d401e66-9059-436e-818c-997f32821ff3.png)
+![WhatsApp Image 2022-09-25 at 9 35 36 AM](https://user-images.githubusercontent.com/75235334/192127940-d95f07c0-8d4a-4fa6-8f11-5b70e73ad274.jpeg)
 
 
+![WhatsApp Image 2022-09-25 at 9 35 38 AM](https://user-images.githubusercontent.com/75235334/192127957-38982297-da00-4c39-8a21-c083d5865638.jpeg)
 
 
